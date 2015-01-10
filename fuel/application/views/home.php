@@ -1,2 +1,2 @@
-<?php $this->load->view('_layouts/main')?>
+<?php $this->load->view('main')?>
 
