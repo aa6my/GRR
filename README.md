@@ -1,21 +1,37 @@
-# FUEL CMS
-FUEL CMS is a [CodeIgniter](http://ellislab.com/codeigniter) based content management system. To learn more about its features visit: http://www.getfuelcms.com
+Game Reviews & Recommendations
+=============================
 
-### Installation
-To install FUEL CMS, copy the contents of this folder to a web accessible 
-folder and browse to the index.php file. Next, follow the directions on the 
-screen. 
 
-### Documentation
-To access the documentation, you can visit it [here](http://docs.getfuelcms.com).
+Hariz **d'idea**
 
-### Bugs
-To file a bug report, go to the [issues](http://github.com/daylightstudio/FUEL-CMS/issues) page.
+----------
 
-### License
-FUEL CMS is licensed under [Apache 2](http://www.apache.org/licenses/LICENSE-2.0.html). The full text of the license can be found in the fuel/licenses/fuel_license.txt file.
 
-<br>
-___
+Notes
+-------------
 
-__Developed by David McReynolds, of [Daylight Studio](http://www.thedaylightstudio.com/)__
+Most of it, is a point of view project and also objectives that need to **achieved!**
+
+#### <i class="icon-file"></i> GRR
+
+> - Main Menu :white_check_mark:
+> - Games :white_check_mark:
+> - News
+> - About Us
+
+#### <i class="icon-file"></i> GRR > Main Menu
+
+> - Slide :white_check_mark:
+> - Minimal News Feed
+> - List of Latest Game
+
+#### <i class="icon-file"></i> GRR > Games
+
+> - Latest Games
+> - Popular Games
+> - All Games
+
+#### <i class="icon-file"></i> GRR -> News
+
+> - News Release
+> - Coming Soon
