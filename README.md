@@ -1,21 +1,99 @@
-# FUEL CMS
-FUEL CMS is a [CodeIgniter](http://ellislab.com/codeigniter) based content management system. To learn more about its features visit: http://www.getfuelcms.com
+Game Reviews & Recommendations
+=============================
 
-### Installation
-To install FUEL CMS, copy the contents of this folder to a web accessible 
-folder and browse to the index.php file. Next, follow the directions on the 
-screen. 
 
-### Documentation
-To access the documentation, you can visit it [here](http://docs.getfuelcms.com).
+Hariz **d'idea**
 
-### Bugs
-To file a bug report, go to the [issues](http://github.com/daylightstudio/FUEL-CMS/issues) page.
+----------
+Most of it, is a point of view project and also objectives that need to **achieved!**
 
-### License
-FUEL CMS is licensed under [Apache 2](http://www.apache.org/licenses/LICENSE-2.0.html). The full text of the license can be found in the fuel/licenses/fuel_license.txt file.
 
-<br>
-___
+Pages
+-------------
 
-__Developed by David McReynolds, of [Daylight Studio](http://www.thedaylightstudio.com/)__
+#### :page_facing_up: GRR
+
+> - Main Menu :white_check_mark:
+> - Games :white_check_mark:
+> - News
+> - About Us
+
+#### :page_facing_up: GRR > Main Menu
+
+> - Slide :white_check_mark:
+> - Minimal News Feed
+> - List of Latest Game
+
+#### :page_facing_up: GRR > Games
+
+> - Latest Games
+> - Popular Games
+> - All Games
+
+#### :page_facing_up: GRR -> News
+
+> - News Release
+> - Coming Soon
+
+#### :page_facing_up: GRR -> About Us
+
+> - About
+> - Contact
+
+
+Function
+-------------
+
+#### :page_facing_up: Game
+
+> - Trailer
+> - Summary
+> - Rating
+> - Requirements
+> - Genre
+> - Review [Other Pages]
+
+#### :page_facing_up: Game > Review
+
+> - Top Review
+> - Latest Review
+> - All Review
+> - Submit a Review [Button]
+
+#### :page_facing_up: Games > Review > Submit a Review
+
+> - Title SAR
+> - Story TF
+> - Gameplay TF
+> - Graphic TF
+> - Music TF
+> - PROS TF
+> - CONS TF
+> - Button
+
+#### :page_facing_up: Latest Games
+
+> - Ascending Date Release
+
+#### :page_facing_up: Popular Games
+
+> - Ascending Rating
+
+#### :page_facing_up: All Game
+
+> - Ascending Alphabet
+
+
+
+Tech
+-------------
+
+GRR uses a number of open source projects to work properly:
+
+* [Codeigniter] - A Fully Baked PHP Framework.
+* [FuelCMS] - A CodeIgniter Content Management System.
+* [bxSlider] - Responsive jQuery Slider.
+* [jQuery] - The Write Less, Do More, JavaScript Library.
+* [PHP] - PHP is a server-side scripting language designed for web development.
+* [mySQL] - Relational database management system.
+
